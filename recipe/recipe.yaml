@@ -1,5 +1,5 @@
 context:
-  version: "2.8.12"
+  version: "2.8.13"
 
 package:
   name: preconstruct
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@preconstruct/cli/-/cli-${{ version }}.tgz
-  sha256: c080d035a0c1f63bedd7d2134e23feecf7a444aaf5e9ec2e99c9ff3cc160d22c
+  sha256: cefbe4d829ee30b91c3110f39f26913b93a4a03febd079c108d6de7f43a31179
 
 build:
   number: 0
